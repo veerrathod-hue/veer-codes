@@ -17,6 +17,7 @@ full-stack projects.
 
 ## 📌 Featured Repositories
 - **dsa-journey** — structured DSA learning with notes and solutions
+- **Innov8her-hims** - SIH project
 
 ## 🛠 Tech Stack
 - C++, JavaScript, TypeScript
