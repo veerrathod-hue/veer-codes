@@ -16,7 +16,7 @@ full-stack projects.
 - Document my thinking and mistakes
 
 ## 📌 Featured Repositories
-- **dsa-journey** — structured DSA learning with notes and solutions
+- **dsa-journey** — structured DSA learning with notes and solutions(In Progress)
 - **Innov8her-hims** - SIH project
 
 ## 🛠 Tech Stack
